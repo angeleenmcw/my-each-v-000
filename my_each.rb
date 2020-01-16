@@ -1,3 +1,3 @@
-def my_each(collection = ["me", "oh", ""])
-  # code here
+def my_each(collection = ["me", "oh", "my"])
+  my_each(collection)
 end
