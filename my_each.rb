@@ -1,3 +1,3 @@
-def my_each # put argument(s) here
+def my_each(collection = ["me", "oh", ""])
   # code here
 end
